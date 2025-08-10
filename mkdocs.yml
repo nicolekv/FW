@@ -1,1 +1,4 @@
 site_name: My Docs
+site_url: https://nicolekv.github.io/FW/
+theme:
+  name: material
